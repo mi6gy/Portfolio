@@ -34,6 +34,11 @@ color: white !important;
 .jumbotron{ background-color: white;
 
 }
+#aboutme{
+  text-align: left;
+
+
+}
 .container{
     font-style: bold;
     padding-top: 20px;
@@ -68,9 +73,11 @@ body, html {
     height: 15vw;
     object-fit: cover;
     max-width: 100%;
+    display: flex;
 }
 .card{
     padding: 10px;
+    display: flex;
 
 }
 .footer{
