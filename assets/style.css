@@ -73,3 +73,8 @@ body, html {
     padding: 10px;
 
 }
+.footer{
+    max-width: 980px;
+    float: right;
+    display: flex;
+}
