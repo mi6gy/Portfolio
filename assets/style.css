@@ -34,8 +34,9 @@ color: white !important;
 .jumbotron{ background-color: white;
 
 }
-#aboutme{
+.aboutme{
   text-align: left;
+  text-indent: 30px;
 
 
 }
